@@ -1,4 +1,4 @@
-# Api Rick and Morty Characters
+# Api Rick and Morty Characters 👽
 
 ## Description
 
