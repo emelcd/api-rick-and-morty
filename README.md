@@ -6,7 +6,7 @@ An API on Rick and Morty characters.
 <!-- import and image -->
 ## Preview
 
-![Rick and Morty Characters](https://raw.githubusercontent.com/emelcd/apiRickandMorty/master/screen.png)
+![Rick and Morty Characters](https://github.com/emelcd/apiRickandMorty/blob/master/screen.png)
 
 ## Installation
 
